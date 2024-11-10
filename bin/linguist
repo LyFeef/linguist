@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+samples/1C Enterprise/Catalog.ИсходящиеПисьма.Form.ФормаЭлемента.Form.Module.bsl#!/usr/bin/env ruby
 
 # linguist — detect language type for a file, or, given a directory, determine language breakdown
 #     usage: linguist <path> [<--breakdown>]
